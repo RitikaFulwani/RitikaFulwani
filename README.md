@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Ritika Fulwani</h1>
+<h1> Hi 👋, I'm Ritika Fulwani</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 <img align="right" alt="coding" width="400px" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
